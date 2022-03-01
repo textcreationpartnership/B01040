@@ -1,0 +1,926 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1547 Set forthe by maister Iames Sauuage, doct. in phisicke and astronomy, and reader in the towne of Hañdwerpe..</title>
+            <author>Sauvage, James.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1547</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01040</idno>
+            <idno type="STC">STC 507.11</idno>
+            <idno type="STC">ESTC S90223</idno>
+            <idno type="EEBO-CITATION">54532260</idno>
+            <idno type="OCLC">ocm 54532260</idno>
+            <idno type="VID">180709</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01040)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180709)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2125:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>1547 Set forthe by maister Iames Sauuage, doct. in phisicke and astronomy, and reader in the towne of Hañdwerpe..</title>
+                  <author>Sauvage, James.</author>
+               </titleStmt>
+               <extent>[1] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>by N. [Hill],</publisher>
+                  <pubPlace>Imprin[t]ed [in] [Lon]don :</pubPlace>
+                  <date>[1547].</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: fragment. Publication information from STC (2nd ed.)</note>
+                  <note>Reproduction of original in: Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Almanacs, English --  Early works to 1800.</term>
+               <term>Astrology --  Early works to 1800.</term>
+               <term>Ephemerides --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="calendar">
+            <pb facs="tcp:180709:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 2 -->
+            <head>
+               <figure>
+                  <head>OTOBRE</head>
+                  <figDesc>depiction of the tasks of October</figDesc>
+               </figure> 
+               <figure>
+                  <head>DECEMBRE</head>
+                  <figDesc>depiction of the tasks of December</figDesc>
+               </figure>
+            </head>
+            <p>
+               <table>
+                  <head>
+                     <gap reason="illegible: damage" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </head>
+                  <row>
+                     <cell>
+                        <gap reason="illegible: damage" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>Otobre.</head>
+                  <row>
+                     <cell>1</cell>
+                     <cell>a</cell>
+                     <cell>R<gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ige biſ.</cell>
+                     <cell>Ari. 4</cell>
+                  </row>
+                  <row>
+                     <cell cols="4">
+                        <gap reason="illegible" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> the ſunday at .v.a clocke. 35. <gap reason="illegible" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>er none, moyſt, rayne, and foule. <gap reason="illegible" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>he .vii And it fortuned that.</cell>
+                  </row>
+                  <row>
+                     <cell>2</cell>
+                     <cell>B</cell>
+                     <cell>
+                        <gap reason="illegible" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                     </cell>
+                     <cell>Ari. 17</cell>
+                  </row>
+                  <row>
+                     <cell>3</cell>
+                     <cell>c</cell>
+                     <cell> </cell>
+                     <cell>en. 29</cell>
+                  </row>
+                  <row>
+                     <cell>4</cell>
+                     <cell>D</cell>
+                     <cell>Fraunces con.</cell>
+                     <cell>Tau. 11</cell>
+                  </row>
+                  <row>
+                     <cell>5</cell>
+                     <cell>e</cell>
+                     <cell>Appoline mar.</cell>
+                     <cell>rus. 23 ⋆</cell>
+                  </row>
+                  <row>
+                     <cell>6</cell>
+                     <cell>f</cell>
+                     <cell>Faith virgin</cell>
+                     <cell>Gemi. 5</cell>
+                  </row>
+                  <row>
+                     <cell>7</cell>
+                     <cell>g</cell>
+                     <cell>Marke &amp; mar.</cell>
+                     <cell>ni. 16</cell>
+                  </row>
+                  <row>
+                     <cell>8</cell>
+                     <cell>a</cell>
+                     <cell>S. Pelagi.</cell>
+                     <cell>ni. 28</cell>
+                  </row>
+                  <row>
+                     <cell cols="4">Luke. xiiii. It chaunced that Ieſus.</cell>
+                  </row>
+                  <row>
+                     <cell>9</cell>
+                     <cell>E</cell>
+                     <cell>17 <gap reason="illegible" extent="2 words">
+                           <desc>〈◊◊〉</desc>
+                        </gap>
+                     </cell>
+                     <cell>Can. 10<g ref="char:punc">▪</g> 
+                        <g ref="char:cross">✚</g>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell cols="4">Laſt quarter the monday at. ix. a clocke at night as afore.</cell>
+                  </row>
+                  <row>
+                     <cell>10</cell>
+                     <cell>c</cell>
+                     <cell> </cell>
+                     <cell>cer. 23</cell>
+                  </row>
+                  <row>
+                     <cell>11</cell>
+                     <cell>d</cell>
+                     <cell>Nicaſe biſ.</cell>
+                     <cell>Leo. 9</cell>
+                  </row>
+                  <row>
+                     <cell>12</cell>
+                     <cell>e</cell>
+                     <cell>S. Wilfrede</cell>
+                     <cell>Leo. 19</cell>
+                  </row>
+                  <row>
+                     <cell>13</cell>
+                     <cell>f</cell>
+                     <cell>
+                        <gap reason="illegible" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                     </cell>
+                     <cell>Vir. 2 ⋆</cell>
+                  </row>
+                  <row>
+                     <cell>14</cell>
+                     <cell>g</cell>
+                     <cell>Calixt biſ.</cell>
+                     <cell>go. xv</cell>
+                  </row>
+                  <row>
+                     <cell>xv</cell>
+                     <cell>a</cell>
+                     <cell>Vlfrayne biſ</cell>
+                     <cell>go 29</cell>
+                  </row>
+                  <row>
+                     <cell cols="4">Math. xxii. When the Phariſes.</cell>
+                  </row>
+                  <row>
+                     <cell>16</cell>
+                     <cell>B</cell>
+                     <cell>18</cell>
+                     <cell>Li. 13 <g ref="char:cross">✚</g> 
+                        <g ref="char:cross">✚</g>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>17</cell>
+                     <cell>c</cell>
+                     <cell>Audrey virgin</cell>
+                     <cell>bra. 2 <g ref="char:cross">✚</g> 
+                        <g ref="char:cross">✚</g>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell cols="4">New mone the tweſday at .i. of the clock in the mornyng, colde and rawe.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible: damage" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                     </cell>
+                     <cell>
+                        <gap reason="illegible: damage" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell>
+                        <gap reason="illegible: damage" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                     </cell>
+                     <cell>Scor. 20 ⋆</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible: damage" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                     </cell>
+                     <cell>
+                        <gap reason="illegible: damage" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell>
+                        <gap reason="illegible: damage" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>ir.</cell>
+                     <cell>pius. 26 ⋆</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible: damage" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                     </cell>
+                     <cell>
+                        <gap reason="illegible: damage" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell>
+                        <gap reason="illegible: damage" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                     </cell>
+                     <cell>Sagit. 19 <gap reason="illegible: damage" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 
+                        <g ref="char:cross">✚</g>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible: damage" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                     </cell>
+                     <cell>
+                        <gap reason="illegible: damage" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell>
+                        <gap reason="illegible: damage" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>ir.</cell>
+                     <cell>tari. 26 <gap reason="illegible: damage" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 
+                        <g ref="char:cross">✚</g>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible: damage" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                     </cell>
+                     <cell>
+                        <gap reason="illegible: damage" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell>
+                        <gap reason="illegible: damage" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>e</cell>
+                     <cell>Capri. xi</cell>
+                  </row>
+                  <row>
+                     <cell cols="4">
+                        <gap reason="illegible: damage" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> into a ſhyp</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible: damage" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                     </cell>
+                     <cell>
+                        <gap reason="illegible: damage" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell>
+                        <gap reason="illegible: damage" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                     </cell>
+                     <cell>cor. 26</cell>
+                  </row>
+                  <row>
+                     <cell cols="4">
+                        <gap reason="illegible" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>ay; at .4. a. clock</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible: damage" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                     </cell>
+                     <cell>
+                        <gap reason="illegible: damage" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell>
+                        <gap reason="illegible: damage" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                     </cell>
+                     <cell>Aqua. x ⋆</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible: damage" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                     </cell>
+                     <cell>
+                        <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell>
+                        <gap reason="illegible: damage" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                     </cell>
+                     <cell>
+                        <gap reason="illegible: damage" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>ius. 23 ⋆</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible: damage" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                     </cell>
+                     <cell>
+                        <gap reason="illegible: damage" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell>
+                        <gap reason="illegible: damage" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                     </cell>
+                     <cell>
+                        <gap reason="illegible" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>7 <g ref="char:cross">✚</g> 
+                        <g ref="char:cross">✚</g>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible: damage" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                     </cell>
+                     <cell>
+                        <gap reason="illegible: damage" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell>
+                        <gap reason="illegible: damage" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                     </cell>
+                     <cell>
+                        <gap reason="illegible: damage" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> 
+                        <g ref="char:cross">✚</g> 
+                        <g ref="char:cross">✚</g>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible: damage" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                     </cell>
+                     <cell>
+                        <gap reason="illegible: damage" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell>
+                        <gap reason="illegible: damage" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                     </cell>
+                     <cell>
+                        <gap reason="illegible: damage" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>2<gap reason="illegible: damage" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 
+                        <g ref="char:cross">✚</g>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible: damage" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                     </cell>
+                     <cell>
+                        <gap reason="illegible: damage" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell>
+                        <gap reason="illegible: damage" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                     </cell>
+                     <cell>
+                        <gap reason="illegible: damage" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>4<g ref="char:cross">✚</g>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible: damage" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <figure/>
+            <p>
+               <table>
+                  <head>DEC<gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </head>
+                  <row>
+                     <cell cols="4">Full moone the thurſda<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> a cloke xxii.mi. afore none at the <gap reason="illegible" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>eſonable</cell>
+                  </row>
+                  <row>
+                     <cell>1</cell>
+                     <cell>f</cell>
+                     <cell> </cell>
+                     <cell>Gem<gap reason="illegible" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>. <gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>2</cell>
+                     <cell>g</cell>
+                     <cell>Libane</cell>
+                     <cell>Can. 5. <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 
+                        <g ref="char:cross">✚</g>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>3</cell>
+                     <cell>a</cell>
+                     <cell>Depo. of Oſmund</cell>
+                     <cell>cer. 16 <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 
+                        <g ref="char:cross">✚</g>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell cols="4">Luke. xxi. There ſhalbe ſygnes in.</cell>
+                  </row>
+                  <row>
+                     <cell>4</cell>
+                     <cell>E</cell>
+                     <cell>Barbara virgine</cell>
+                     <cell>cer 28 <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 
+                        <g ref="char:cross">✚</g>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>5</cell>
+                     <cell>c</cell>
+                     <cell>Sabba abbot</cell>
+                     <cell>Leo, 10</cell>
+                  </row>
+                  <row>
+                     <cell>6</cell>
+                     <cell>d</cell>
+                     <cell>ſ. Nicolas biſhop</cell>
+                     <cell>Leo, 23 ⋆</cell>
+                  </row>
+                  <row>
+                     <cell>7</cell>
+                     <cell>e</cell>
+                     <cell>Octa. of ſ. An</cell>
+                     <cell>Vir. 5 ⋆</cell>
+                  </row>
+                  <row>
+                     <cell>8</cell>
+                     <cell>f</cell>
+                     <cell>Concepcion of Mary</cell>
+                     <cell>go. 18</cell>
+                  </row>
+                  <row>
+                     <cell cols="4">Laſt quarter the fryday at. vi. a clock in the morning, as afore.</cell>
+                  </row>
+                  <row>
+                     <cell>9</cell>
+                     <cell>g</cell>
+                     <cell>Cipriane abbot</cell>
+                     <cell>Li. 2</cell>
+                  </row>
+                  <row>
+                     <cell>10</cell>
+                     <cell>a</cell>
+                     <cell> </cell>
+                     <cell>bra. 15 <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 
+                        <g ref="char:cross">✚</g>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell cols="4">Math. xi. When Iohn beynge in priſon.</cell>
+                  </row>
+                  <row>
+                     <cell>11</cell>
+                     <cell>B</cell>
+                     <cell> </cell>
+                     <cell>bra. 30 ⋆ <g ref="char:cross">✚</g>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>12</cell>
+                     <cell>c</cell>
+                     <cell>
+                        <gap reason="illegible" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                     </cell>
+                     <cell>ſcor. 1<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 
+                        <g ref="char:cross">✚</g>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>13</cell>
+                     <cell>d</cell>
+                     <cell>ſaincte Lucy virgin</cell>
+                     <cell>pius. <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> ⋆</cell>
+                  </row>
+                  <row>
+                     <cell>14</cell>
+                     <cell>e</cell>
+                     <cell> </cell>
+                     <cell>ſagit. 14 <g ref="char:cross">✚</g> 
+                        <g ref="char:cross">✚</g>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell cols="4">Newe mone the thurſday at. ix. a clocke xxv. min. at night, cold ayre, with froſty dayes.</cell>
+                  </row>
+                  <row>
+                     <cell>15</cell>
+                     <cell>f</cell>
+                     <cell> </cell>
+                     <cell>ſagit. <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>9</cell>
+                  </row>
+                  <row>
+                     <cell>16</cell>
+                     <cell>
+                        <gap reason="illegible: missing" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell> </cell>
+                     <cell>ta. 14</cell>
+                  </row>
+                  <row>
+                     <cell>17</cell>
+                     <cell>a</cell>
+                     <cell>Lazarus byſhoppe</cell>
+                     <cell>ri. 26</cell>
+                  </row>
+                  <row>
+                     <cell cols="4">Math. i. This is the record of Iohn.</cell>
+                  </row>
+                  <row>
+                     <cell>18</cell>
+                     <cell>B</cell>
+                     <cell>Gracian biſhop</cell>
+                     <cell>Aqua. 13 <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>⋆</cell>
+                  </row>
+                  <row>
+                     <cell>19</cell>
+                     <cell>c</cell>
+                     <cell> </cell>
+                     <cell>ri. 27 ⋆</cell>
+                  </row>
+                  <row>
+                     <cell>20</cell>
+                     <cell>d</cell>
+                     <cell>Iulian mar. Faſt.</cell>
+                     <cell>Piſ. 10. <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 
+                        <g ref="char:cross">✚</g>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>21</cell>
+                     <cell>e</cell>
+                     <cell>Thomas apoſtle</cell>
+                     <cell>ces. 24 <g ref="char:cross">✚</g> 
+                        <g ref="char:cross">✚</g>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell cols="4">Firſt quarter the thurſdaye at. x. clocke at night, froſt, ſhowe.</cell>
+                  </row>
+                  <row>
+                     <cell>22</cell>
+                     <cell>f</cell>
+                     <cell> </cell>
+                     <cell>Ari. 7</cell>
+                  </row>
+                  <row>
+                     <cell>23</cell>
+                     <cell>g</cell>
+                     <cell>Victor virgin</cell>
+                     <cell>es. 20 <g ref="char:cross">✚</g> 
+                        <g ref="char:cross">✚</g>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>24</cell>
+                     <cell>a</cell>
+                     <cell>c Faſt.</cell>
+                     <cell>Tau. 3</cell>
+                  </row>
+                  <row>
+                     <cell cols="4">Iohn, i. In the begynnyng was the.</cell>
+                  </row>
+                  <row>
+                     <cell>25</cell>
+                     <cell>B</cell>
+                     <cell>Chriſtmas day</cell>
+                     <cell>rus. 15</cell>
+                  </row>
+                  <row>
+                     <cell>26</cell>
+                     <cell>c</cell>
+                     <cell>Stephan martir</cell>
+                     <cell>rus. 27 ⋆</cell>
+                  </row>
+                  <row>
+                     <cell>27</cell>
+                     <cell>d</cell>
+                     <cell>Iohn Euangeliſt</cell>
+                     <cell>Gemi. 8</cell>
+                  </row>
+                  <row>
+                     <cell>28</cell>
+                     <cell>e</cell>
+                     <cell>Childermas day</cell>
+                     <cell>ni. 25</cell>
+                  </row>
+                  <row>
+                     <cell>29</cell>
+                     <cell>f</cell>
+                     <cell> </cell>
+                     <cell>
+                        <gap reason="illegible" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> 
+                        <g ref="char:cross">✚</g>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell cols="4">Ful mone the Friday at xii. <gap reason="illegible: damage" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <gap reason="illegible: page cropped" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>laboure and dau<g ref="char:cmbAbbrStroke">̄</g>gerous iourneys to take in hande, be very daungerous whiche <gap reason="illegible" extent="3+ letters">
+                  <desc>•••…</desc>
+               </gap>es be marked wyth this ſtarre.</p>
+            <figure>
+               <figDesc>diagram of human body as microcosm (with members corresponding to zodiacal signs)</figDesc>
+               <p>Aries. ⋆ Gemini. Leo. <gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ibra. Sagitta. Aquari. Piſces. Capric. Scor. Virgo. Cancer. Taurus.</p>
+            </figure>
+            <p>
+               <table>
+                  <row>
+                     <cell>Aries</cell>
+                     <cell>Heade</cell>
+                  </row>
+                  <row>
+                     <cell>Taurus</cell>
+                     <cell>Necke</cell>
+                  </row>
+                  <row>
+                     <cell>Gemini</cell>
+                     <cell>Armes and handes</cell>
+                  </row>
+                  <row>
+                     <cell>Cancer</cell>
+                     <cell>Breaſte</cell>
+                  </row>
+                  <row>
+                     <cell>Leo</cell>
+                     <cell>Herte</cell>
+                  </row>
+                  <row>
+                     <cell>Virgo</cell>
+                     <cell>Bowels</cell>
+                  </row>
+                  <row>
+                     <cell>Libra</cell>
+                     <cell>Raynes</cell>
+                  </row>
+                  <row>
+                     <cell>Scorpius</cell>
+                     <cell>Members</cell>
+                  </row>
+                  <row>
+                     <cell>Sagittari<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s</cell>
+                     <cell>Thigh<gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Capricornus</cell>
+                     <cell>Knees</cell>
+                  </row>
+                  <row>
+                     <cell>Aquarius</cell>
+                     <cell>Shynne<gap reason="illegible" extent="2+ letters">
+                           <desc>••…</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Piſces</cell>
+                     <cell>Fete.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <hi>Set for the by maiſter James Sauuage, Doct. in Phiſicke and Aſtronom<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, and reader in the towne of Ha<g ref="char:cmbAbbrStroke">̄</g>dwerpe.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprin<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed <gap reason="illegible: damage" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>don by N<gap reason="illegible: damage" extent="4+ letters">
+                  <desc>••••…</desc>
+               </gap> 
+               <gap reason="illegible: damage" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
